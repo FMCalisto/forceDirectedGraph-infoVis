@@ -1,6 +1,6 @@
-# Radial Information Visualization
+# Force-directed Graph Information Visualization
 
-<img src="assets/radial.png"/>
+<img src="assets/force-directed.png"/>
 
 ## Local Development
 
@@ -28,4 +28,4 @@ This will start the server on [http://localhost:8080](http://localhost:8080/) fr
 
 3. Change the score of the slices for another scenario (eg.: the radial is the set of information of a football player, as dribbling, passing, set pieces).
 
-See [slide 14](https://github.com/FMCalisto/radial-infoVis/blob/master/workshop/Are%20you%20HIPEd%20about%20exploring%20information.pptx) of the presentation.
+See [slide 14](https://github.com/FMCalisto/forceDirectedGraph-infoVis/blob/master/workshop/Are%20you%20HIPEd%20about%20exploring%20information.pptx) of the presentation.
