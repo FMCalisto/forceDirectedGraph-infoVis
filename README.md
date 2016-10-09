@@ -22,10 +22,6 @@ This will start the server on [http://localhost:8080](http://localhost:8080/) fr
 
 ## Tasks
 
-1. Change the number of slices;
+1. Clicking on a node of the graph makes the nodes `hidden`; [example](http://bl.ocks.org/mbostock/1093130)
 
-2. Change the legend;
-
-3. Change the score of the slices for another scenario (eg.: the radial is the set of information of a football player, as dribbling, passing, set pieces).
-
-See [slide 14](https://github.com/FMCalisto/forceDirectedGraph-infoVis/blob/master/workshop/Are%20you%20HIPEd%20about%20exploring%20information.pptx) of the presentation.
+2. Make the nodes of the graph images instead of circles; [example](http://bl.ocks.org/eesur/be2abfb3155a38be4de4)
